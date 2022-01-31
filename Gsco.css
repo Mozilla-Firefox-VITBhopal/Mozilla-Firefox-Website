@@ -333,6 +333,15 @@ button {
   .sponsor{
     width: 130px;
   }
+  .profile-img{ 
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+  }
+.Banner{
+    text-align:center;
+ }
 }
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);
 
