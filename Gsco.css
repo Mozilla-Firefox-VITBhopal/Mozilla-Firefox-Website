@@ -497,6 +497,15 @@ td {
 		width: 59%;
 		padding-left: 5%;
 	}
+	.profile-img{ 
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+  }
+.Banner{
+    text-align:center;
+ }
 }
 
 
@@ -1210,6 +1219,15 @@ img {
   .what-we-do__img {
     width: 100px;
   }
+	.profile-img{ 
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+  }
+.Banner{
+    text-align:center;
+ }
   
 }
 
