@@ -1458,6 +1458,15 @@ width:50%;
   border: 2px solid red;
   color: black;
 }
+.profile-img{ 
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+  }
+.Banner{
+    text-align:center;
+ }
 
 
   
