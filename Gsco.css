@@ -20,6 +20,9 @@
         width:65%;
         text-align: center;
     }
+    .next{
+     margin-right:813px;
+     }
 } */
 h1{
     font-family: 'Montserrat Alternates', sans-serif;
@@ -271,6 +274,9 @@ input[type=email] {
   }
 }
 
+.next{
+margin-right:52px;
+}
 
 
 
